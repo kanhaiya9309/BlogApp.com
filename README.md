@@ -48,7 +48,7 @@ A simple and dynamic blog website where users can create new posts, edit existin
     Replace `your-mongodb-connection-string` and `your-session-secret` with your actual MongoDB connection string and session secret.
 
    
-4 ## Screenshot
+ ## Screenshot
 
 ![Screenshot (398)](https://github.com/kanhaiya9309/BlogApp.com/assets/124244655/51529487-43f6-41bd-ac34-99208723aab0)
 
